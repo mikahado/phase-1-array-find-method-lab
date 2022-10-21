@@ -7,6 +7,6 @@ function superbowlWin(record){
             }
         }
 
-        
+
 
 
